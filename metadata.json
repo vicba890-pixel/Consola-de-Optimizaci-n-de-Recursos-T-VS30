@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo Optimizador T-VS30 | Consola de Infraestructura Crítica",
+  "description": "Protocolo descentralizado de infraestructura crítica T-VS30: optimizador de recursos para sistemas distribuidos multi-región, arquitectura Lattice CMST, RISC-V VMSB©, auditoría continua en tiempo real y certificación de ahorro de energía y agua con Capex Cero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
